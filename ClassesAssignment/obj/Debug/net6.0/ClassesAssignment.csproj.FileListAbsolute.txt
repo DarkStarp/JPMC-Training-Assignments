@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\ClassesAssignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\ClassesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\ClassesAssignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\ClassesAssignment.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\ClassesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\bin\Debug\net6.0\ClassesAssignment.exe
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\bin\Debug\net6.0\ClassesAssignment.deps.json
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\bin\Debug\net6.0\ClassesAssignment.runtimeconfig.json
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\bin\Debug\net6.0\ClassesAssignment.dll
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\bin\Debug\net6.0\ClassesAssignment.pdb
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\ClassesAssignment.dll
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\refint\ClassesAssignment.dll
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\ClassesAssignment.pdb
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\ClassesAssignment.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\ClassesAssignment\obj\Debug\net6.0\ref\ClassesAssignment.dll
