@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.exe
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.deps.json
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.runtimeconfig.json
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.dll
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.pdb
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.dll
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\refint\ConstructorAssignment.dll
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.pdb
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\ConstructorAssignment\obj\Debug\net6.0\ref\ConstructorAssignment.dll
