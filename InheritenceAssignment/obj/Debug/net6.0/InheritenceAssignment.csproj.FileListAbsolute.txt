@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\InheritenceAssignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\InheritenceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\InheritenceAssignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\InheritenceAssignment.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\InheritenceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\bin\Debug\net6.0\InheritenceAssignment.exe
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\bin\Debug\net6.0\InheritenceAssignment.deps.json
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\bin\Debug\net6.0\InheritenceAssignment.runtimeconfig.json
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\bin\Debug\net6.0\InheritenceAssignment.dll
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\bin\Debug\net6.0\InheritenceAssignment.pdb
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\InheritenceAssignment.dll
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\refint\InheritenceAssignment.dll
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\InheritenceAssignment.pdb
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\InheritenceAssignment.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InheritenceAssignment\obj\Debug\net6.0\ref\InheritenceAssignment.dll
