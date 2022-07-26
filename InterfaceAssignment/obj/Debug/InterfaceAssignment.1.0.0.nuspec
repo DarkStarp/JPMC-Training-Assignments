@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InterfaceAssignment</id>
+    <version>1.0.0</version>
+    <authors>InterfaceAssignment</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.runtimeconfig.json" target="lib\net6.0\InterfaceAssignment.runtimeconfig.json" />
+    <file src="C:\Users\Administrator\Desktop\JPMC\JPMC_Codebase\C# Assignment\JPMC-Training-Assignments\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.dll" target="lib\net6.0\InterfaceAssignment.dll" />
+  </files>
+</package>
